@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rbac_final/static/css/main.79d19d76.css",
+    "main.js": "/rbac_final/static/js/main.31ad5b22.js",
+    "static/media/axios.cjs": "/rbac_final/static/media/axios.693cfcc9e5223535a0dc.cjs",
+    "index.html": "/rbac_final/index.html",
+    "main.79d19d76.css.map": "/rbac_final/static/css/main.79d19d76.css.map",
+    "main.31ad5b22.js.map": "/rbac_final/static/js/main.31ad5b22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.31ad5b22.js"
+  ]
+}
