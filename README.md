@@ -110,7 +110,7 @@ Table of Contents
 7.	Running the Project Locally
 
     To run the application locally, follow these steps:
-   1.	Clone the repository
+    1.	Clone this repository
 
     2.	Navigate to rbac.
 
