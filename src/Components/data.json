@@ -1,0 +1,82 @@
+{
+  "users": [
+    { "id": 1, "userId": "analyst", "password": "analyst123", "role": "Data Analyst", "status": "Active" },
+    { "id": 2, "userId": "officer", "password": "officer123", "role": "Compliance Officer", "status": "Active" },
+    { "id": 3, "userId": "admin", "password": "admin123", "role": "System Admin", "status": "Active" },
+    { "id": 4, "userId": "jdoe", "password": "password123", "role": "Data Analyst", "status": "Inactive" },
+    { "id": 5, "userId": "janedoe", "password": "janedoe123", "role": "Compliance Officer", "status": "Active" },
+    { "id": 6, "userId": "marksmith", "password": "mark123", "role": "System Admin", "status": "Active" },
+    { "id": 7, "userId": "alicebrown", "password": "alice123", "role": "Data Analyst", "status": "Active" },
+    { "id": 8, "userId": "bobwhite", "password": "bob123", "role": "Compliance Officer", "status": "Inactive" },
+    { "id": 9, "userId": "charlesgreen", "password": "charles123", "role": "System Admin", "status": "Active" },
+    { "id": 10, "userId": "davidmiller", "password": "david123", "role": "Data Analyst", "status": "Active" },
+    { "id": 11, "userId": "emilyjones", "password": "emily123", "role": "Compliance Officer", "status": "Inactive" },
+    { "id": 12, "userId": "fionawilliams", "password": "fiona123", "role": "System Admin", "status": "Active" },
+    { "id": 13, "userId": "gracehall", "password": "grace123", "role": "Data Analyst", "status": "Inactive" },
+    { "id": 14, "userId": "harryclark", "password": "harry123", "role": "Compliance Officer", "status": "Active" },
+    { "id": 15, "userId": "isabelladavis", "password": "isabella123", "role": "System Admin", "status": "Active" },
+    { "id": 16, "userId": "jacksonmartin", "password": "jackson123", "role": "Data Analyst", "status": "Active" },
+    { "id": 17, "userId": "katherinelewis", "password": "katherine123", "role": "Compliance Officer", "status": "Active" },
+    { "id": 18, "userId": "lucasmartin", "password": "lucas123", "role": "System Admin", "status": "Inactive" },
+    { "id": 19, "userId": "michaelwhite", "password": "michael123", "role": "Data Analyst", "status": "Active" },
+    { "id": 20, "userId": "natalieroberts", "password": "natalie123", "role": "Compliance Officer", "status": "Active" },
+    { "id": 21, "userId": "oliverjackson", "password": "oliver123", "role": "System Admin", "status": "Inactive" },
+    { "id": 22, "userId": "pauladavis", "password": "paula123", "role": "Data Analyst", "status": "Active" },
+    { "id": 23, "userId": "quinnharris", "password": "quinn123", "role": "Compliance Officer", "status": "Active" },
+    { "id": 24, "userId": "rebeccawalker", "password": "rebecca123", "role": "System Admin", "status": "Active" },
+    { "id": 25, "userId": "samueladams", "password": "samuel123", "role": "Data Analyst", "status": "Inactive" },
+    { "id": 26, "userId": "taylorperez", "password": "taylor123", "role": "Compliance Officer", "status": "Active" },
+    { "id": 27, "userId": "ursulaperry", "password": "ursula123", "role": "System Admin", "status": "Active" },
+    { "id": 28, "userId": "vincemartin", "password": "vince123", "role": "Data Analyst", "status": "Active" },
+    { "id": 29, "userId": "williambrown", "password": "william123", "role": "Compliance Officer", "status": "Inactive" },
+    { "id": 30, "userId": "xanderjones", "password": "xander123", "role": "System Admin", "status": "Active" }
+  ],
+  "sales": [
+    { "id": 1, "product": "Product A", "amount": 100, "date": "2024-02-05" },
+    { "id": 2, "product": "Product B", "amount": 250, "date": "2024-03-12" },
+    { "id": 3, "product": "Product C", "amount": 150, "date": "2024-07-01" },
+    { "id": 4, "product": "Product D", "amount": 300, "date": "2024-06-15" },
+    { "id": 5, "product": "Product E", "amount": 200, "date": "2024-11-20" },
+    { "id": 6, "product": "Product F", "amount": 350, "date": "2024-10-05" },
+    { "id": 7, "product": "Product G", "amount": 450, "date": "2024-04-08" },
+    { "id": 8, "product": "Product H", "amount": 500, "date": "2024-05-25" },
+    { "id": 9, "product": "Product I", "amount": 600, "date": "2024-02-18" },
+    { "id": 10, "product": "Product J", "amount": 700, "date": "2024-03-25" },
+    { "id": 11, "product": "Product K", "amount": 800, "date": "2024-07-22" },
+    { "id": 12, "product": "Product L", "amount": 900, "date": "2024-06-02" },
+    { "id": 13, "product": "Product M", "amount": 1000, "date": "2024-08-11" },
+    { "id": 14, "product": "Product N", "amount": 1100, "date": "2024-09-17" },
+    { "id": 15, "product": "Product O", "amount": 1200, "date": "2024-01-20" },
+    { "id": 16, "product": "Product P", "amount": 1300, "date": "2024-11-05" },
+    { "id": 17, "product": "Product Q", "amount": 1400, "date": "2024-10-18" },
+    { "id": 18, "product": "Product R", "amount": 1500, "date": "2024-09-09" },
+    { "id": 19, "product": "Product S", "amount": 1600, "date": "2024-05-03" },
+    { "id": 20, "product": "Product T", "amount": 1700, "date": "2024-08-23" },
+    { "id": 21, "product": "Product U", "amount": 1800, "date": "2024-04-18" },
+    { "id": 22, "product": "Product V", "amount": 1900, "date": "2024-03-05" },
+    { "id": 23, "product": "Product W", "amount": 2000, "date": "2024-07-16" },
+    { "id": 24, "product": "Product X", "amount": 2100, "date": "2024-06-30" },
+    { "id": 25, "product": "Product Y", "amount": 2200, "date": "2024-10-22" },
+    { "id": 26, "product": "Product Z", "amount": 2300, "date": "2024-09-01" },
+    { "id": 27, "product": "Product AA", "amount": 2400, "date": "2024-02-28" },
+    { "id": 28, "product": "Product AB", "amount": 2500, "date": "2024-01-05" },
+    { "id": 29, "product": "Product AC", "amount": 2600, "date": "2024-05-17" },
+    { "id": 30, "product": "Product AD", "amount": 2700, "date": "2024-11-12" }
+  ],
+  "requests":[],
+  "Roles": [
+    {
+      "roleName": "System Admin",
+      "permissions": ["Read", "Write", "Update", "Delete"]
+    },
+    {
+      "roleName": "Data Analyst",
+      "permissions": []
+    },
+    {
+      "roleName": "Compliance Officer",
+      "permissions": ["Read"]
+    }
+  ]
+  
+}
